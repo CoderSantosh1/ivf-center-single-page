@@ -1,0 +1,442 @@
+{
+  "activeCategory": "IVF",
+  "common": {
+    "metadata": {
+      "title": "Janani IVF & Fertility Centre | Your Journey to Parenthood",
+      "description": "Advanced IVF, ICSI, IUI and fertility preservation with compassionate, personalised care. Book a free consultation today."
+    },
+    "brand": {
+      "name": "Janani",
+      "highlight": "IVF",
+      "tagline": "Fertility Centre",
+      "href": "#home"
+    },
+    "Footer": {
+      "description": "Compassionate, advanced fertility care helping families grow since 2008.",
+      "socialLinks": [
+        { "label": "Facebook", "key": "facebook", "short": "f", "href": "#" },
+        { "label": "LinkedIn", "key": "linkedin", "short": "in", "href": "#" },
+        { "label": "Instagram", "key": "instagram", "short": "ig", "href": "#" },
+        { "label": "YouTube", "key": "youtube", "short": "yt", "href": "#" }
+      ],
+      "columns": [
+        {
+          "heading": "Quick Links",
+          "links": [
+            { "label": "Home", "href": "#home" },
+            { "label": "About Us", "href": "#about" },
+            { "label": "Mission & Vision", "href": "#mission" },
+            { "label": "Projects", "href": "#projects" },
+            { "label": "Contact", "href": "#contact" }
+          ]
+        },
+        {
+          "heading": "Treatments",
+          "links": [
+            { "label": "IVF & ICSI", "href": "#contact" },
+            { "label": "IUI", "href": "#contact" },
+            { "label": "Egg Freezing", "href": "#contact" },
+            { "label": "PGT Testing", "href": "#contact" },
+            { "label": "Male Infertility", "href": "#contact" }
+          ]
+        }
+      ],
+      "newsletter": {
+        "heading": "Newsletter",
+        "description": "Fertility tips & centre updates, once a month.",
+        "placeholder": "Your email",
+        "buttonLabel": "Join"
+      },
+      "copyright": "© 2026 Janani IVF & Fertility Centre. All Rights Reserved. Powered by Lestow.",
+      "madeWith": { "before": "Made with", "after": "for every family" },
+      "backToTop": { "label": "Back to top", "href": "#home" }
+    }
+  },
+  "categories": {
+    "IVF": {
+      "sections": {
+        "Header": {
+          "variants": {
+            "IVFHeader1": {
+              "navLinks": [
+                { "id": "home", "label": "Home" },
+                { "id": "about", "label": "About Us" },
+                { "id": "mission", "label": "Mission & Vision" },
+                { "id": "projects", "label": "Projects" },
+                { "id": "testimonials", "label": "Testimonials" }
+              ],
+              "ctaLabel": "Book Consultation",
+              "ctaHref": "#contact",
+              "menuAriaLabel": "Toggle menu"
+            }
+          }
+        },
+        "Hero": {
+          "variants": {
+            "IVFHero1": {
+              "id": "home",
+              "badge": "Compassionate Fertility Care",
+              "title": "Your Dream of",
+              "highlightTitle": "Parenthood",
+              "ctaLabel": "Book Consultation",
+              "ctaHref": "#contact",
+              "rating": { "value": "4.9", "stars": 5 },
+              "families": { "count": "12,000+", "label": "happy families" },
+              "mainImage": {
+                "src": "https://images.unsplash.com/photo-1544126592-807ade215a0b?w=1000&q=80",
+                "alt": "Mother holding her sleeping newborn baby"
+              },
+              "secondaryImage": {
+                "src": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=600&q=80",
+                "alt": "Smiling fertility specialist"
+              },
+              "successBadge": { "title": "72% Success", "subtitle": "IVF pregnancy rate" },
+              "specialities": [
+                "IVF",
+                "ICSI",
+                "IUI",
+                "Egg Freezing",
+                "Embryo Freezing",
+                "PGT Testing",
+                "Donor Programs",
+                "Male Infertility"
+              ]
+            }
+          }
+        },
+        "AboutUs": {
+          "variants": {
+            "IVFAboutUs1": {
+              "id": "about",
+              "eyebrow": "About Us",
+              "title": "Where science meets",
+              "highlightTitle": "compassion",
+              "description": "Since 2008, 12,000+ families welcomed.",
+              "images": [
+                {
+                  "src": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=700&q=80",
+                  "alt": "Fertility doctor consulting with a patient"
+                },
+                {
+                  "src": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=700&q=80",
+                  "alt": "Embryologist working with a microscope in the IVF lab"
+                }
+              ],
+              "counters": [
+                { "value": 18, "suffix": "+", "label": "Years of trusted fertility care" },
+                { "value": 45, "suffix": "+", "label": "Fertility specialists & embryologists" }
+              ],
+              "circleText": "• Trusted • Caring • Proven •",
+              "features": [
+                { "title": "Advanced Lab", "icon": "microscope" },
+                { "title": "Expert Doctors", "icon": "stethoscope" },
+                { "title": "Personal Care", "icon": "heartHandshake" },
+                { "title": "Clear Pricing", "icon": "shieldCheck" }
+              ],
+              "gallery": [
+                {
+                  "src": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=400&q=80",
+                  "alt": "Inside our IVF laboratory"
+                },
+                {
+                  "src": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&q=80",
+                  "alt": "Inside our IVF laboratory"
+                },
+                {
+                  "src": "https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?w=400&q=80",
+                  "alt": "Inside our IVF laboratory"
+                }
+              ]
+            }
+          }
+        },
+        "MissionVision": {
+          "variants": {
+            "IVFMissionVision1": {
+              "id": "mission",
+              "eyebrow": "Mission & Vision",
+              "title": "What drives us",
+              "highlightTitle": "every day",
+              "cards": [
+                {
+                  "tag": "Our Mission",
+                  "title": "Parenthood for everyone",
+                  "icon": "target",
+                  "gradient": "from-brand-500 to-brand-700",
+                  "image": {
+                    "src": "https://images.unsplash.com/photo-1493894473891-10fc1e5dbd22?w=900&q=80",
+                    "alt": "Parenthood for everyone"
+                  }
+                },
+                {
+                  "tag": "Our Vision",
+                  "title": "India's most trusted fertility partner",
+                  "icon": "eye",
+                  "gradient": "from-sea-500 to-sea-700",
+                  "image": {
+                    "src": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=900&q=80",
+                    "alt": "India's most trusted fertility partner"
+                  }
+                }
+              ],
+              "values": [
+                { "label": "Empathy", "icon": "heartHandshake" },
+                { "label": "Ethics", "icon": "scale" },
+                { "label": "Innovation", "icon": "lightbulb" },
+                { "label": "Transparency", "icon": "searchCheck" },
+                { "label": "Excellence", "icon": "gem" }
+              ]
+            }
+          }
+        },
+        "Projects": {
+          "variants": {
+            "IVFProjects1": {
+              "id": "projects",
+              "eyebrow": "Our Projects",
+              "title": "Programmes that",
+              "highlightTitle": "change lives",
+              "autoplayMs": 2600,
+              "previousLabel": "Previous project",
+              "nextLabel": "Next project",
+              "items": [
+                {
+                  "title": "Next-Gen IVF Lab",
+                  "category": "Treatments",
+                  "stat": "72% success",
+                  "href": "#contact",
+                  "image": {
+                    "src": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=700&q=80",
+                    "alt": "Next-Gen IVF Lab"
+                  }
+                },
+                {
+                  "title": "AI Embryo Selection",
+                  "category": "Research",
+                  "stat": "2,400 cycles",
+                  "href": "#contact",
+                  "image": {
+                    "src": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=700&q=80",
+                    "alt": "AI Embryo Selection"
+                  }
+                },
+                {
+                  "title": "Fertility Preservation",
+                  "category": "Treatments",
+                  "stat": "99% survival",
+                  "href": "#contact",
+                  "image": {
+                    "src": "https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?w=700&q=80",
+                    "alt": "Fertility Preservation"
+                  }
+                },
+                {
+                  "title": "Rural Fertility Camps",
+                  "category": "Community",
+                  "stat": "18,000 screened",
+                  "href": "#contact",
+                  "image": {
+                    "src": "https://images.unsplash.com/photo-1584515933487-779824d29309?w=700&q=80",
+                    "alt": "Rural Fertility Camps"
+                  }
+                },
+                {
+                  "title": "Male Infertility Clinic",
+                  "category": "Treatments",
+                  "stat": "1,100+ fathers",
+                  "href": "#contact",
+                  "image": {
+                    "src": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?w=700&q=80",
+                    "alt": "Male Infertility Clinic"
+                  }
+                },
+                {
+                  "title": "Hope Grant Programme",
+                  "category": "Community",
+                  "stat": "350 grants",
+                  "href": "#contact",
+                  "image": {
+                    "src": "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=700&q=80",
+                    "alt": "Hope Grant Programme"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "Gallery": {
+          "variants": {
+            "IVFGallery1": {
+              "id": "gallery",
+              "eyebrow": "Gallery",
+              "title": "Moments of",
+              "highlightTitle": "pure joy",
+              "labels": {
+                "open": "View full image",
+                "close": "Close",
+                "previous": "Previous image",
+                "next": "Next image",
+                "dialog": "Image preview"
+              },
+              "rows": [
+                [
+                  { "thumb": "https://images.unsplash.com/photo-1544126592-807ade215a0b?w=600&q=80", "src": "https://images.unsplash.com/photo-1544126592-807ade215a0b?w=1800&q=85", "alt": "A happy moment at Janani IVF" },
+                  { "thumb": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=600&q=80", "src": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=1800&q=85", "alt": "A happy moment at Janani IVF" },
+                  { "thumb": "https://images.unsplash.com/photo-1491013516836-7db643ee125a?w=600&q=80", "src": "https://images.unsplash.com/photo-1491013516836-7db643ee125a?w=1800&q=85", "alt": "A happy moment at Janani IVF" },
+                  { "thumb": "https://images.unsplash.com/photo-1493894473891-10fc1e5dbd22?w=600&q=80", "src": "https://images.unsplash.com/photo-1493894473891-10fc1e5dbd22?w=1800&q=85", "alt": "A happy moment at Janani IVF" },
+                  { "thumb": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=600&q=80", "src": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=1800&q=85", "alt": "A happy moment at Janani IVF" },
+                  { "thumb": "https://images.unsplash.com/photo-1522771930-78848d9293e8?w=600&q=80", "src": "https://images.unsplash.com/photo-1522771930-78848d9293e8?w=1800&q=85", "alt": "A happy moment at Janani IVF" }
+                ],
+                [
+                  { "thumb": "https://images.unsplash.com/photo-1510154221590-ff63e90a136f?w=600&q=80", "src": "https://images.unsplash.com/photo-1510154221590-ff63e90a136f?w=1800&q=85", "alt": "A happy moment at Janani IVF" },
+                  { "thumb": "https://images.unsplash.com/photo-1566004100631-35d015d6a491?w=600&q=80", "src": "https://images.unsplash.com/photo-1566004100631-35d015d6a491?w=1800&q=85", "alt": "A happy moment at Janani IVF" },
+                  { "thumb": "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=600&q=80", "src": "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=1800&q=85", "alt": "A happy moment at Janani IVF" },
+                  { "thumb": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=600&q=80", "src": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=1800&q=85", "alt": "A happy moment at Janani IVF" },
+                  { "thumb": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&q=80", "src": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1800&q=85", "alt": "A happy moment at Janani IVF" },
+                  { "thumb": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=600&q=80", "src": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=1800&q=85", "alt": "A happy moment at Janani IVF" }
+                ]
+              ]
+            }
+          }
+        },
+        "Testimonials": {
+          "variants": {
+            "IVFTestimonials1": {
+              "id": "testimonials",
+              "eyebrow": "Testimonials",
+              "title": "Stories of",
+              "highlightTitle": "hope & joy",
+              "autoplayMs": 5000,
+              "items": [
+                {
+                  "name": "Priya & Rahul Sharma",
+                  "place": "Delhi",
+                  "treatment": "IVF + ICSI",
+                  "quote": "After two failed cycles, Janani gave us our daughter Anaya.",
+                  "image": {
+                    "src": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=300&h=300&fit=crop&q=80",
+                    "alt": "Priya & Rahul Sharma"
+                  }
+                },
+                {
+                  "name": "Sneha Iyer",
+                  "place": "Bengaluru",
+                  "treatment": "Egg Freezing",
+                  "quote": "Froze my eggs at 34 — holding my twins at 38.",
+                  "image": {
+                    "src": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=300&h=300&fit=crop&q=80",
+                    "alt": "Sneha Iyer"
+                  }
+                },
+                {
+                  "name": "Arjun & Kavya Menon",
+                  "place": "Kochi",
+                  "treatment": "Micro-TESE + ICSI",
+                  "quote": "Honest answers, honest pricing. Vihaan is our miracle.",
+                  "image": {
+                    "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop&q=80",
+                    "alt": "Arjun & Kavya Menon"
+                  }
+                },
+                {
+                  "name": "Imran & Fatima Khan",
+                  "place": "Lucknow",
+                  "treatment": "Hope Grant IVF",
+                  "quote": "The Hope Grant made our dream affordable.",
+                  "image": {
+                    "src": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=300&h=300&fit=crop&q=80",
+                    "alt": "Imran & Fatima Khan"
+                  }
+                }
+              ],
+              "stats": [
+                { "value": "4.9/5", "label": "Google Rating" },
+                { "value": "12,000+", "label": "Babies Born" },
+                { "value": "98%", "label": "Would Recommend" },
+                { "value": "25+", "label": "Awards Won" }
+              ]
+            }
+          }
+        },
+        "Contact": {
+          "variants": {
+            "IVFContact1": {
+              "id": "contact",
+              "eyebrow": "Contact Us",
+              "title": "Begin your",
+              "highlightTitle": "journey today",
+              "description": "Free first consultation.",
+              "info": [
+                { "title": "Visit Us", "icon": "mapPin", "lines": ["USA 18, Ocean Drive"] },
+                { "title": "Call Us", "icon": "phone", "lines": ["+1 00000 00000"] },
+                { "title": "Email Us", "icon": "mail", "lines": ["info@gmail.com"] }
+              ],
+              "emergency": {
+                "title": "Emergency Helpline",
+                "subtitle": "24 × 7",
+                "phone": "+1  00000",
+                "phoneHref": "tel:+100000000"
+              },
+              "form": {
+                "fields": [
+                  { "id": "name", "name": "name", "label": "Full name", "type": "text", "required": true },
+                  { "id": "phone", "name": "phone", "label": "Phone number", "type": "tel", "required": true },
+                  { "id": "email", "name": "email", "label": "Email address", "type": "email", "required": false },
+                  { "id": "message", "name": "message", "label": "Message", "type": "textarea", "required": false }
+                ],
+                "select": {
+                  "id": "service",
+                  "name": "service",
+                  "label": "Treatment",
+                  "placeholder": "Select a treatment",
+                  "options": ["IVF / ICSI", "IUI", "Egg / Embryo Freezing", "Male Infertility", "Second Opinion"]
+                },
+                "submitLabel": "Book My Free Consultation",
+                "privacyNote": "Your information is 100% confidential.",
+                "success": {
+                  "title": "Thank you!",
+                  "description": "Our fertility counsellor will call you shortly.",
+                  "resetLabel": "Send another"
+                }
+              }
+            }
+          }
+        }
+      },
+      "templateComponents": {
+        "shared": {
+          "Header": "IVFHeader1",
+          "Footer": "Footer"
+        },
+        "pages": {
+          "home": {
+            "components": [
+              { "key": "Hero", "component": "IVFHero1" },
+              { "key": "AboutUs", "component": "IVFAboutUs1" },
+              { "key": "MissionVision", "component": "IVFMissionVision1" },
+              { "key": "Projects", "component": "IVFProjects1" },
+              { "key": "Gallery", "component": "IVFGallery1" },
+              { "key": "Testimonials", "component": "IVFTestimonials1" },
+              { "key": "Contact", "component": "IVFContact1" }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "pages": {
+    "home": {
+      "components": [
+        { "key": "Header", "component": "IVFHeader1" },
+        { "key": "Hero", "component": "IVFHero1" },
+        { "key": "AboutUs", "component": "IVFAboutUs1" },
+        { "key": "MissionVision", "component": "IVFMissionVision1" },
+        { "key": "Projects", "component": "IVFProjects1" },
+        { "key": "Gallery", "component": "IVFGallery1" },
+        { "key": "Testimonials", "component": "IVFTestimonials1" },
+        { "key": "Contact", "component": "IVFContact1" },
+        { "key": "Footer", "component": "Footer" }
+      ]
+    }
+  }
+}
