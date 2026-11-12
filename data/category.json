@@ -25,7 +25,8 @@
           "links": [
             { "label": "Home", "href": "#home" },
             { "label": "About Us", "href": "#about" },
-            { "label": "Mission & Vision", "href": "#mission" },
+            { "label": "Why Choose Us", "href": "#why-choose-us" },
+            { "label": "Treatments", "href": "#treatments" },
             { "label": "Projects", "href": "#projects" },
             { "label": "Contact", "href": "#contact" }
           ]
@@ -61,7 +62,8 @@
               "navLinks": [
                 { "id": "home", "label": "Home" },
                 { "id": "about", "label": "About Us" },
-                { "id": "mission", "label": "Mission & Vision" },
+                { "id": "why-choose-us", "label": "Why Choose Us" },
+                { "id": "treatments", "label": "Treatments" },
                 { "id": "projects", "label": "Projects" },
                 { "id": "testimonials", "label": "Testimonials" }
               ],
@@ -150,42 +152,138 @@
             }
           }
         },
-        "MissionVision": {
+        "WhyChooseUs": {
           "variants": {
-            "IVFMissionVision1": {
-              "id": "mission",
-              "eyebrow": "Mission & Vision",
-              "title": "What drives us",
-              "highlightTitle": "every day",
-              "cards": [
+            "IVFWhyChooseUs1": {
+              "id": "why-choose-us",
+              "eyebrow": "Why Choose Us",
+              "title": "A fertility journey built on",
+              "highlightTitle": "trust & expertise",
+              "description": "Every pathway is personalised, clinically guided, and shaped around your goals, comfort, and long-term wellbeing.",
+              "items": [
                 {
-                  "tag": "Our Mission",
-                  "title": "Parenthood for everyone",
-                  "icon": "target",
-                  "gradient": "from-brand-500 to-brand-700",
+                  "title": "Personalised Care",
+                  "description": "Your treatment plan is tailored to your health history, timing, and goals for the most reassuring care possible.",
+                  "icon": "heartHandshake",
                   "image": {
-                    "src": "https://images.unsplash.com/photo-1493894473891-10fc1e5dbd22?w=900&q=80",
-                    "alt": "Parenthood for everyone"
+                    "src": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=600&q=80",
+                    "alt": "Personalized care for fertility treatment"
                   }
                 },
                 {
-                  "tag": "Our Vision",
-                  "title": "India's most trusted fertility partner",
-                  "icon": "eye",
-                  "gradient": "from-sea-500 to-sea-700",
+                  "title": "Advanced Lab",
+                  "description": "Our embryology and diagnostics are supported by modern techniques and precise, high-standard protocols.",
+                  "icon": "microscope",
                   "image": {
-                    "src": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=900&q=80",
-                    "alt": "India's most trusted fertility partner"
+                    "src": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=600&q=80",
+                    "alt": "Modern IVF lab equipment"
+                  }
+                },
+                {
+                  "title": "Transparent Guidance",
+                  "description": "You receive clear explanations, realistic milestones, and honest support at every step of your journey.",
+                  "icon": "shieldCheck",
+                  "image": {
+                    "src": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&q=80",
+                    "alt": "Doctor guiding a patient through fertility care"
+                  }
+                },
+                {
+                  "title": "Expert Team",
+                  "description": "Specialists, embryologists and counsellors work together to provide thoughtful, evidence-led care.",
+                  "icon": "stethoscope",
+                  "image": {
+                    "src": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=600&q=80",
+                    "alt": "Expert fertility specialists"
                   }
                 }
               ],
-              "values": [
-                { "label": "Empathy", "icon": "heartHandshake" },
-                { "label": "Ethics", "icon": "scale" },
-                { "label": "Innovation", "icon": "lightbulb" },
-                { "label": "Transparency", "icon": "searchCheck" },
-                { "label": "Excellence", "icon": "gem" }
+              "stats": [
+                { "value": "12,000+", "label": "Families supported" },
+                { "value": "18+", "label": "Years of experience" },
+                { "value": "4.9/5", "label": "Patient rating" }
               ]
+            }
+          }
+        },
+        "Treatments": {
+          "variants": {
+            "IVFTreatments1": {
+              "id": "treatments",
+              "eyebrow": "Treatments",
+              "title": "Care for every stage of",
+              "highlightTitle": "your journey",
+              "description": "From fertility protection to successful conception, we combine advanced science with compassionate support.",
+              "items": [
+                {
+                  "title": "IVF & ICSI",
+                  "description": "Advanced assisted conception with expert monitoring, lab care, and tailored treatment planning.",
+                  "icon": "baby",
+                  "image": {
+                    "src": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=600&q=80",
+                    "alt": "IVF and ICSI treatment"
+                  },
+                  "badge": "Most Popular",
+                  "href": "#contact"
+                },
+                {
+                  "title": "IUI",
+                  "description": "A minimally invasive option for selected couples seeking a supportive and efficient fertility path.",
+                  "icon": "target",
+                  "image": {
+                    "src": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=600&q=80",
+                    "alt": "IUI fertility treatment"
+                  },
+                  "badge": "Gentle",
+                  "href": "#contact"
+                },
+                {
+                  "title": "Egg Freezing",
+                  "description": "Preserve fertility with expert counselling and modern cryopreservation methods designed for the future.",
+                  "icon": "gem",
+                  "image": {
+                    "src": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=600&q=80",
+                    "alt": "Egg freezing treatment"
+                  },
+                  "badge": "Future Ready",
+                  "href": "#contact"
+                },
+                {
+                  "title": "Embryo Freezing",
+                  "description": "A safe and flexible option for future family planning while keeping your reproductive goals in mind.",
+                  "icon": "shieldCheck",
+                  "image": {
+                    "src": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&q=80",
+                    "alt": "Embryo freezing support"
+                  },
+                  "badge": "Secure",
+                  "href": "#contact"
+                },
+                {
+                  "title": "PGT Testing",
+                  "description": "Improve confidence with genetic screening that helps identify the healthiest embryo options.",
+                  "icon": "searchCheck",
+                  "image": {
+                    "src": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&q=80",
+                    "alt": "PGT testing in fertility care"
+                  },
+                  "badge": "Precision",
+                  "href": "#contact"
+                },
+                {
+                  "title": "Male Infertility",
+                  "description": "Comprehensive diagnosis and treatment pathways designed to support sperm health and fertility outcomes.",
+                  "icon": "heartHandshake",
+                  "image": {
+                    "src": "https://images.unsplash.com/photo-1584515933487-779824d29309?w=600&q=80",
+                    "alt": "Male infertility care"
+                  },
+                  "badge": "Holistic",
+                  "href": "#contact"
+                }
+              ],
+              "ctaLabel": "Book Your Consultation",
+              "ctaHref": "#contact"
             }
           }
         },
@@ -413,7 +511,8 @@
             "components": [
               { "key": "Hero", "component": "IVFHero1" },
               { "key": "AboutUs", "component": "IVFAboutUs1" },
-              { "key": "MissionVision", "component": "IVFMissionVision1" },
+              { "key": "WhyChooseUs", "component": "IVFWhyChooseUs1" },
+              { "key": "Treatments", "component": "IVFTreatments1" },
               { "key": "Projects", "component": "IVFProjects1" },
               { "key": "Gallery", "component": "IVFGallery1" },
               { "key": "Testimonials", "component": "IVFTestimonials1" },
@@ -430,7 +529,8 @@
         { "key": "Header", "component": "IVFHeader1" },
         { "key": "Hero", "component": "IVFHero1" },
         { "key": "AboutUs", "component": "IVFAboutUs1" },
-        { "key": "MissionVision", "component": "IVFMissionVision1" },
+        { "key": "WhyChooseUs", "component": "IVFWhyChooseUs1" },
+        { "key": "Treatments", "component": "IVFTreatments1" },
         { "key": "Projects", "component": "IVFProjects1" },
         { "key": "Gallery", "component": "IVFGallery1" },
         { "key": "Testimonials", "component": "IVFTestimonials1" },

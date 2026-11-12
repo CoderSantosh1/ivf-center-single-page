@@ -102,18 +102,7 @@ export default function Hero({ data }: { data: HeroData }) {
             </div>
           </div>
 
-          {/* FLOATING BADGE */}
-          <div className="absolute top-[14%] left-[2%] z-20 animate-hero-pop [animation-delay:800ms] sm:left-[4%]">
-            <div className="flex animate-bob items-center gap-3 rounded-2xl border border-[#f0d4d8] bg-white/90 px-4 py-3 shadow-[0_12px_30px_rgba(159,100,111,0.15)] backdrop-blur [animation-duration:4s]">
-              <span className="grid size-10 place-items-center rounded-full bg-[#f9e3e5] text-[#cc7c90]">
-                <Baby size={20} strokeWidth={1.6} />
-              </span>
-              <span className="text-left leading-tight">
-                <span className="block text-sm font-semibold text-[#483534]">{data.successBadge.title}</span>
-                <span className="text-xs text-[#95666f]">{data.successBadge.subtitle}</span>
-              </span>
-            </div>
-          </div>
+        
 
           {/* PLUS DECORATION */}
           <div className="absolute right-0 bottom-[24%] z-20 flex h-9 w-9 animate-quarter-turn items-center justify-center rounded-full bg-[#f4dfe0] text-[#c77e8d] sm:right-[1%] sm:h-11 sm:w-11">

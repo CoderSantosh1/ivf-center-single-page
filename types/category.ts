@@ -87,16 +87,28 @@ export type AboutData = SectionHeadingData & {
   gallery: ImageAsset[];
 };
 
-export type MissionVisionData = SectionHeadingData & {
+export type WhyChooseUsData = SectionHeadingData & {
   id: string;
-  cards: {
-    tag: string;
-    title: string;
-    icon: IconKey;
-    gradient: string;
-    image: ImageAsset;
-  }[];
-  values: { label: string; icon: IconKey }[];
+  description: string;
+  items: { title: string; description: string; icon: IconKey; image?: ImageAsset }[];
+  stats: { value: string; label: string }[];
+};
+
+export type TreatmentItem = {
+  title: string;
+  description: string;
+  icon: IconKey;
+  image?: ImageAsset;
+  badge: string;
+  href: string;
+};
+
+export type TreatmentsData = SectionHeadingData & {
+  id: string;
+  description: string;
+  items: TreatmentItem[];
+  ctaLabel: string;
+  ctaHref: string;
 };
 
 export type ProjectItem = {
@@ -166,7 +178,8 @@ export type SectionDataMap = {
   Header: HeaderData;
   Hero: HeroData;
   AboutUs: AboutData;
-  MissionVision: MissionVisionData;
+  WhyChooseUs: WhyChooseUsData;
+  Treatments: TreatmentsData;
   Projects: ProjectsData;
   Gallery: GalleryData;
   Testimonials: TestimonialsData;
