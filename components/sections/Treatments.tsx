@@ -80,14 +80,14 @@ export default function Treatments({ data }: { data: TreatmentsData }) {
                  <a
                   href="#contact"
                   className="mt-5 inline-flex w-fit items-center justify-center gap-2 rounded-full border border-[#b8667b] bg-transparent px-5 py-2 text-xs font-semibold text-[#b8667b] transition-all duration-300 hover:bg-[#b8667b] hover:text-white"
->
-  Learn More
-  <Icon
-    name="sparkles"
-    size={14}
-    strokeWidth={1.8}
-  />
-</a>
+                    >
+                      Learn More
+                      <Icon
+                        name="sparkles"
+                        size={14}
+                        strokeWidth={1.8}
+                      />
+                    </a>
                 </div>
               </article>
             </Reveal>

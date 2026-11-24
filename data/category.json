@@ -85,11 +85,11 @@
               "rating": { "value": "4.9", "stars": 5 },
               "families": { "count": "12,000+", "label": "happy families" },
               "mainImage": {
-                "src": "https://images.unsplash.com/photo-1544126592-807ade215a0b?w=1000&q=80",
+                "src": "/images/newbornbaby.webp",
                 "alt": "Mother holding her sleeping newborn baby"
               },
               "secondaryImage": {
-                "src": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=600&q=80",
+                "src": "/images/Smiling-specialist.webp",
                 "alt": "Smiling fertility specialist"
               },
               "successBadge": { "title": "72% Success", "subtitle": "IVF pregnancy rate" },
@@ -116,11 +116,11 @@
               "description": "Since 2008, 12,000+ families welcomed.",
               "images": [
                 {
-                  "src": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=700&q=80",
+                  "src": "/images/about-1.webp",
                   "alt": "Fertility doctor consulting with a patient"
                 },
                 {
-                  "src": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=700&q=80",
+                  "src": "/images/about-2.webp",
                   "alt": "Embryologist working with a microscope in the IVF lab"
                 }
               ],
@@ -137,15 +137,15 @@
               ],
               "gallery": [
                 {
-                  "src": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=400&q=80",
+                  "src": "/images/about-3.webp",
                   "alt": "Inside our IVF laboratory"
                 },
                 {
-                  "src": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&q=80",
+                  "src": "/images/about-4.webp",
                   "alt": "Inside our IVF laboratory"
                 },
                 {
-                  "src": "https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?w=400&q=80",
+                  "src": "/images/about-5.webp",
                   "alt": "Inside our IVF laboratory"
                 }
               ]
@@ -166,7 +166,7 @@
                   "description": "Your treatment plan is tailored to your health history, timing, and goals for the most reassuring care possible.",
                   "icon": "heartHandshake",
                   "image": {
-                    "src": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=600&q=80",
+                    "src": "/images/choose-1.webp",
                     "alt": "Personalized care for fertility treatment"
                   }
                 },
@@ -175,7 +175,7 @@
                   "description": "Our embryology and diagnostics are supported by modern techniques and precise, high-standard protocols.",
                   "icon": "microscope",
                   "image": {
-                    "src": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=600&q=80",
+                    "src": "/images/choose-2.webp",
                     "alt": "Modern IVF lab equipment"
                   }
                 },
@@ -184,7 +184,7 @@
                   "description": "You receive clear explanations, realistic milestones, and honest support at every step of your journey.",
                   "icon": "shieldCheck",
                   "image": {
-                    "src": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&q=80",
+                    "src": "/images/choose-3.webp",
                     "alt": "Doctor guiding a patient through fertility care"
                   }
                 },
@@ -193,7 +193,7 @@
                   "description": "Specialists, embryologists and counsellors work together to provide thoughtful, evidence-led care.",
                   "icon": "stethoscope",
                   "image": {
-                    "src": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=600&q=80",
+                    "src": "/images/choose-4.webp",
                     "alt": "Expert fertility specialists"
                   }
                 }
@@ -220,7 +220,7 @@
                   "description": "Advanced assisted conception with expert monitoring, lab care, and tailored treatment planning.",
                   "icon": "baby",
                   "image": {
-                    "src": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=600&q=80",
+                    "src": "/images/Treatments-1.webp",
                     "alt": "IVF and ICSI treatment"
                   },
                   "badge": "Most Popular",
@@ -231,7 +231,7 @@
                   "description": "A minimally invasive option for selected couples seeking a supportive and efficient fertility path.",
                   "icon": "target",
                   "image": {
-                    "src": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=600&q=80",
+                    "src": "/images/Treatments-2.webp",
                     "alt": "IUI fertility treatment"
                   },
                   "badge": "Gentle",
@@ -242,7 +242,7 @@
                   "description": "Preserve fertility with expert counselling and modern cryopreservation methods designed for the future.",
                   "icon": "gem",
                   "image": {
-                    "src": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=600&q=80",
+                    "src": "/images/Treatments-3.webp",
                     "alt": "Egg freezing treatment"
                   },
                   "badge": "Future Ready",
@@ -253,7 +253,7 @@
                   "description": "A safe and flexible option for future family planning while keeping your reproductive goals in mind.",
                   "icon": "shieldCheck",
                   "image": {
-                    "src": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&q=80",
+                    "src": "/images/Treatments-4.webp",
                     "alt": "Embryo freezing support"
                   },
                   "badge": "Secure",
@@ -264,7 +264,7 @@
                   "description": "Improve confidence with genetic screening that helps identify the healthiest embryo options.",
                   "icon": "searchCheck",
                   "image": {
-                    "src": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&q=80",
+                    "src": "/images/Treatments-4.webp",
                     "alt": "PGT testing in fertility care"
                   },
                   "badge": "Precision",
@@ -275,7 +275,7 @@
                   "description": "Comprehensive diagnosis and treatment pathways designed to support sperm health and fertility outcomes.",
                   "icon": "heartHandshake",
                   "image": {
-                    "src": "https://images.unsplash.com/photo-1584515933487-779824d29309?w=600&q=80",
+                    "src": "/images/Treatments-4.webp",
                     "alt": "Male infertility care"
                   },
                   "badge": "Holistic",
@@ -304,7 +304,7 @@
                   "stat": "72% success",
                   "href": "#contact",
                   "image": {
-                    "src": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=700&q=80",
+                    "src": "/images/Project-1.webp",
                     "alt": "Next-Gen IVF Lab"
                   }
                 },
@@ -314,7 +314,7 @@
                   "stat": "2,400 cycles",
                   "href": "#contact",
                   "image": {
-                    "src": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=700&q=80",
+                    "src": "/images/Project-2.webp",
                     "alt": "AI Embryo Selection"
                   }
                 },
@@ -324,7 +324,7 @@
                   "stat": "99% survival",
                   "href": "#contact",
                   "image": {
-                    "src": "https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?w=700&q=80",
+                    "src": "/images/Project-3.webp",
                     "alt": "Fertility Preservation"
                   }
                 },
@@ -334,7 +334,7 @@
                   "stat": "18,000 screened",
                   "href": "#contact",
                   "image": {
-                    "src": "https://images.unsplash.com/photo-1584515933487-779824d29309?w=700&q=80",
+                    "src": "/images/Project-4.webp",
                     "alt": "Rural Fertility Camps"
                   }
                 },
@@ -344,7 +344,7 @@
                   "stat": "1,100+ fathers",
                   "href": "#contact",
                   "image": {
-                    "src": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?w=700&q=80",
+                    "src": "/images/Project-5.webp",
                     "alt": "Male Infertility Clinic"
                   }
                 },
@@ -354,7 +354,7 @@
                   "stat": "350 grants",
                   "href": "#contact",
                   "image": {
-                    "src": "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=700&q=80",
+                    "src": "/images/Project-6.webp",
                     "alt": "Hope Grant Programme"
                   }
                 }
@@ -378,20 +378,20 @@
               },
               "rows": [
                 [
-                  { "thumb": "https://images.unsplash.com/photo-1544126592-807ade215a0b?w=600&q=80", "src": "https://images.unsplash.com/photo-1544126592-807ade215a0b?w=1800&q=85", "alt": "A happy moment at Janani IVF" },
-                  { "thumb": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=600&q=80", "src": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=1800&q=85", "alt": "A happy moment at Janani IVF" },
-                  { "thumb": "https://images.unsplash.com/photo-1491013516836-7db643ee125a?w=600&q=80", "src": "https://images.unsplash.com/photo-1491013516836-7db643ee125a?w=1800&q=85", "alt": "A happy moment at Janani IVF" },
-                  { "thumb": "https://images.unsplash.com/photo-1493894473891-10fc1e5dbd22?w=600&q=80", "src": "https://images.unsplash.com/photo-1493894473891-10fc1e5dbd22?w=1800&q=85", "alt": "A happy moment at Janani IVF" },
-                  { "thumb": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=600&q=80", "src": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?w=1800&q=85", "alt": "A happy moment at Janani IVF" },
-                  { "thumb": "https://images.unsplash.com/photo-1522771930-78848d9293e8?w=600&q=80", "src": "https://images.unsplash.com/photo-1522771930-78848d9293e8?w=1800&q=85", "alt": "A happy moment at Janani IVF" }
+                  { "thumb": "/images/newbornbaby.webp", "src": "/images/newbornbaby.webp", "alt": "A happy moment at Janani IVF" },
+                  { "thumb": "/images/about-1.webp", "src": "/images/about-1.webp", "alt": "A happy moment at Janani IVF" },
+                  { "thumb": "/images/about-2.webp", "src": "/images/about-2.webp", "alt": "A happy moment at Janani IVF" },
+                  { "thumb": "/images/about-3.webp", "src": "/images/about-3.webp", "alt": "A happy moment at Janani IVF" },
+                  { "thumb": "/images/about-4.webp", "src": "/images/about-4.webp", "alt": "A happy moment at Janani IVF" },
+                  { "thumb": "/images/about-5.webp", "src": "/images/about-5.webp", "alt": "A happy moment at Janani IVF" }
                 ],
                 [
-                  { "thumb": "https://images.unsplash.com/photo-1510154221590-ff63e90a136f?w=600&q=80", "src": "https://images.unsplash.com/photo-1510154221590-ff63e90a136f?w=1800&q=85", "alt": "A happy moment at Janani IVF" },
-                  { "thumb": "https://images.unsplash.com/photo-1566004100631-35d015d6a491?w=600&q=80", "src": "https://images.unsplash.com/photo-1566004100631-35d015d6a491?w=1800&q=85", "alt": "A happy moment at Janani IVF" },
-                  { "thumb": "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=600&q=80", "src": "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=1800&q=85", "alt": "A happy moment at Janani IVF" },
-                  { "thumb": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=600&q=80", "src": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=1800&q=85", "alt": "A happy moment at Janani IVF" },
-                  { "thumb": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&q=80", "src": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1800&q=85", "alt": "A happy moment at Janani IVF" },
-                  { "thumb": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=600&q=80", "src": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=1800&q=85", "alt": "A happy moment at Janani IVF" }
+                  { "thumb": "/images/choose-1.webp", "src": "/images/choose-1.webp", "alt": "A happy moment at Janani IVF" },
+                  { "thumb": "/images/choose-2.webp", "src": "/images/choose-2.webp", "alt": "A happy moment at Janani IVF" },
+                  { "thumb": "/images/choose-3.webp", "src": "/images/choose-3.webp", "alt": "A happy moment at Janani IVF" },
+                  { "thumb": "/images/choose-4.webp", "src": "/images/choose-4.webp", "alt": "A happy moment at Janani IVF" },
+                  { "thumb": "/images/Smiling-specialist.webp", "src": "/images/Smiling-specialist.webp", "alt": "A happy moment at Janani IVF" },
+                  { "thumb": "/images/Treatments-1.webp", "src": "/images/Treatments-1.webp", "alt": "A happy moment at Janani IVF" }
                 ]
               ]
             }
@@ -412,7 +412,7 @@
                   "treatment": "IVF + ICSI",
                   "quote": "After two failed cycles, Janani gave us our daughter Anaya.",
                   "image": {
-                    "src": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=300&h=300&fit=crop&q=80",
+                    "src": "/images/Test-1.webp",
                     "alt": "Priya & Rahul Sharma"
                   }
                 },
@@ -422,7 +422,7 @@
                   "treatment": "Egg Freezing",
                   "quote": "Froze my eggs at 34 — holding my twins at 38.",
                   "image": {
-                    "src": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=300&h=300&fit=crop&q=80",
+                    "src": "/images/Test-2.webp",
                     "alt": "Sneha Iyer"
                   }
                 },
@@ -432,7 +432,7 @@
                   "treatment": "Micro-TESE + ICSI",
                   "quote": "Honest answers, honest pricing. Vihaan is our miracle.",
                   "image": {
-                    "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=300&fit=crop&q=80",
+                    "src": "/images/Test-1.webp",
                     "alt": "Arjun & Kavya Menon"
                   }
                 },
@@ -442,7 +442,7 @@
                   "treatment": "Hope Grant IVF",
                   "quote": "The Hope Grant made our dream affordable.",
                   "image": {
-                    "src": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=300&h=300&fit=crop&q=80",
+                    "src": "/images/Test-2.webp",
                     "alt": "Imran & Fatima Khan"
                   }
                 }
